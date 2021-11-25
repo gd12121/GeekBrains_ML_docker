@@ -1,5 +1,0 @@
-docker build -t predictor .
-docker run -d -p 8080:8080 -v /home/kali/share:/app/models predictor 
-docker run -d -p 8080:8080 predictor 
-docker run -it predictor /bin/bash
-docker run -it predictor /bin/bash
