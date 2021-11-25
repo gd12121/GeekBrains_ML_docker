@@ -1,0 +1,5 @@
+dill
+xgboost==1.4.2
+sklearn
+pandas
+flask
