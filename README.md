@@ -1,7 +1,7 @@
 # GeekBrains_ML_docker
  
  Для сборки образа:
- docker build -t <tag> .
+ `docker build -t &lt;tag&gt; .`
  
  Для запуска контейнера:
  docker run -d -p 8080:8080 predictor 
